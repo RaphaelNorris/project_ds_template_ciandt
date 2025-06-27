@@ -1,10 +1,9 @@
 {
-  "project_name": "Meu Projeto de DS",
-  "repo_name": "meu-projeto-ds",
+  "project_name": "{name_team}_{model_name}",
+  "repo_name": "{name_team}",
   "author_name": "Seu Nome",
-  "email": "seu.email@dominio.com",
-  "github_username": "seuGitHub",
+  "email": "(Opcional) seu.email@dominio.com",
+  "github_username": "(Opcional) seuGitHub",
   "description": "Descrição do projeto",
-  "compatible_python_versions": ["3.10", "3.11", "3.12", "3.13"],
-  "python_version": "3.12"
+  "compatible_python_versions": ["3.10", "3.11", "3.12", "3.13"]
 }
