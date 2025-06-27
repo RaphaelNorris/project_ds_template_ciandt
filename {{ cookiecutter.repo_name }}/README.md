@@ -52,8 +52,6 @@ A arquitetura implementa os principais pilares de CD4ML:
 
 ## Features and Tools
 
-Information about all the features and tools used in this project: <https://joserzapata.github.io/data-science-project-template/#features-and-tools>
-
 Features                                     | Package  | Why?
  ---                                         | ---      | ---
 Dependencies and env                         | [pip] + [venv] | [article](https://realpython.com/python-virtual-environments-a-primer/)
