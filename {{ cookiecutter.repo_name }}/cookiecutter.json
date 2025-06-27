@@ -1,0 +1,10 @@
+{
+  "project_name": "Meu Projeto de DS",
+  "repo_name": "meu-projeto-ds",
+  "author_name": "Seu Nome",
+  "email": "seu.email@dominio.com",
+  "github_username": "seuGitHub",
+  "description": "Descrição do projeto",
+  "compatible_python_versions": ["3.10", "3.11", "3.12", "3.13"],
+  "python_version": "3.12"
+}
